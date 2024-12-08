@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Glasgow</a>
+subtitle: <a>University of Glasgow</a>
 
 profile:
   align: right
