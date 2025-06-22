@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my {PhD thesis}[https://theses.gla.ac.uk/85203/] at the University of Glasgow!
+I successfully defended my [PhD thesis](https://theses.gla.ac.uk/85203/) at the University of Glasgow!
